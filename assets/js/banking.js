@@ -1,9 +1,9 @@
-function makeEdit() {
-    document.querySelector(".model-container").classList.add('show');
+// function makeEdit() {
+//     document.querySelector(".model-container").classList.add('show');
 
-}
+// }
 
-function closeAdd() {
+function closeEdit() {
     document.querySelector(".model-container").classList.remove('show');
 
 }
